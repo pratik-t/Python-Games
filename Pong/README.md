@@ -1,0 +1,1 @@
+Pong against Bot. Super difficult to score but not impossible. Mainly because of the junk input delay.
